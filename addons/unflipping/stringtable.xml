@@ -88,13 +88,14 @@
         <Original>It requires a ToolKit to unflip a vehicle</Original>
         <German>Ein Werkzeugkasten wird zum Aufrichten benötigt</German>
         <Polish>Wymagaj zestawu naprawczego do odwracania pojazdów</Polish>
-        <Russian>Требуется набор инструментов для переворота транспорта</Russian>
+        <Russian>Необходим набор инструментов для переворота транспорта</Russian>
         <Spanish>Un kit de herramientas es requerido para voltear vehículos</Spanish>
         <Chinesesimp>需要携带工具包才能翻正载具</Chinesesimp>
     </Key>
     <Key ID="STR_vet_unflipping_require_serviceVehicle">
         <Original>Require repair vehicle to unflip vehicle</Original>
         <Polish>Wymagaj pojazdu naprawczego do odwracania pojazdów</Polish>
+         <Russian>Необходим ремонт техники для переворота.</Russian>
     </Key>
 
     <!-- Actions -->
